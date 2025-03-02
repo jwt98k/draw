@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="第 1 页" id="d91bJrMciSjmlM4cjwXa">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-1" value="展示层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-2" value="业务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-3" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-4" value="运行环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-9" value="vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="215" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-10" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="325" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-11" value="数据同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="325" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-12" value="档案著录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="325" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-14" value="本机电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="515" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R-mK_RxA9jtd6qJ8Qr8-15" value="SqlLite" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
